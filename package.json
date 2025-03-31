@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Kinetic58/resume",
+  "homepage": "https://kinetic58.github.io/resume/",
   "scripts": {
     "dev": "vite",
     "build": "vite build && tsc",
